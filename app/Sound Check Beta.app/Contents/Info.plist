@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>12F45</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>mxf</string>
+			</array>
+			<key>CFBundleTypeIconFile</key>
+			<string>Collective5.icns</string>
+			<key>CFBundleTypeName</key>
+			<string>Max collective</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>mx@c</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>app</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string>Application</string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>APPL</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>None</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>Sound Check Beta</string>
+	<key>CFBundleGetInfoString</key>
+	<string>0.1.6, Copyright 2014 Danny Holmes</string>
+	<key>CFBundleIconFile</key>
+	<string>Sound Check Beta.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.notnaturalaudio.SoundCheck</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleLongVersionString</key>
+	<string>Sound Check 0.1.6, Copyright 2014 Danny Holmes</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.6</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>0.1.6</string>
+	<key>CSResourcesFileMapped</key>
+	<false/>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvmgcc42</string>
+	<key>DTPlatformBuild</key>
+	<string>4H1003</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>10M2518</string>
+	<key>DTSDKName</key>
+	<string>macosx10.6</string>
+	<key>DTXcode</key>
+	<string>0462</string>
+	<key>DTXcodeBuild</key>
+	<string>4H1003</string>
+	<key>LSArchitecturePriority</key>
+	<array>
+		<string>i386</string>
+		<string>x86_64</string>
+	</array>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
